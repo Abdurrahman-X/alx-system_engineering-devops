@@ -1,3 +1,2 @@
 #!/bin/bash
-# list the content of the current working directory.
 ls
