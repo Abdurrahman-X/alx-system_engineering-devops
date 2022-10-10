@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -printf "\n" | ls -t | head -10
